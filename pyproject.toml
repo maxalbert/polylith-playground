@@ -8,5 +8,6 @@ dependencies = []
 
 [dependency-groups]
 dev = [
+    "ipython>=9.2.0",
     "polylith-cli>=1.26.0",
 ]
