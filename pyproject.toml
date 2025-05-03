@@ -15,3 +15,6 @@ build-backend = "hatchling.build"
 
 [tool.hatch.build]
 dev-mode-dirs = ["components", "bases", "development", "."]
+
+[tool.polylith.bricks]
+"components/fjalnar/trondur" = "fjalnar/trondur"
