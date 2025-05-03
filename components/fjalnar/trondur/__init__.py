@@ -1,3 +1,3 @@
-from fjalnar.trondur import core
+from fjalnar.trondur.core import double, triple
 
-__all__ = ["core"]
+__all__ = ["double", "triple"]
