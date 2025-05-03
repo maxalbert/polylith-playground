@@ -1,3 +1,21 @@
+# Session 2
+
+## What I did
+
+- 
+
+## Current status
+
+- 
+
+## Next steps
+
+- 
+
+## Notes
+
+- 
+
 # Session 1
 
 ## What I did
@@ -19,7 +37,7 @@
 
 ## Next steps
 
-- Create a new polylith component named 'geysir' / 'blandor'
+- Create a new polylith component named 'trondur'
 
 ## Notes
 
