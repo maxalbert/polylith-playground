@@ -2,19 +2,18 @@
 
 ## What I did
 
-- 
+- Created new component 'trondur'
+   - Added a couple of dummy functions: 'double', 'triple'
 
 ## Current status
 
-- 
+- The polylith workspace contains one component (`trondur`) which can be imported from the development environment.
 
 ## Next steps
 
-- 
+- Create polylith project which includes the 'trondur' component.
+- Build a library using this project.
 
-## Notes
-
-- 
 
 # Session 1
 
